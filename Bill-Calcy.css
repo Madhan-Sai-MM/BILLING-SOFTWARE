@@ -1,0 +1,91 @@
+*{
+    margin-left: 11px;
+    margin-top: 2%;
+    padding: 0;
+}
+body{
+    background-image: url("pizza.jpg");
+    background-attachment: fixed;
+}
+
+.div1{
+    display: flex;
+    margin-left: 15px;
+}
+
+label{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+input {
+    padding: 5px;
+    padding-left: 9px;
+}
+kbd{
+    margin-right: 15px;
+    font-weight:bolder;
+    font-size: larger;
+}
+
+input {
+    border-radius: 22px;
+    background-color: rgb(153, 196, 196);
+    color: black;
+    font-size: larger;
+}
+input:hover{
+    background-color: azure;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+button {
+    font-size: larger;
+    background-color: green;
+    color: white;
+    padding: 0px 9px;
+    border-radius: 9px;
+    font-weight: 500;
+}
+button:hover{
+    font-size: x-large;
+    font-weight: bolder;
+    background-color: blue;
+    color: white;
+    border-radius: 22px;
+}
+.tax-bill{
+    margin-left: 5%;
+}
+#rl{
+    color: blue;
+    font-size: 90px;
+    font-weight: bolder;
+    font-style: normal;
+}
+#mm{
+    color: blue;
+    font-size: 90px;
+    font-weight: bolder;
+    font-style: normal;
+}
+#m{
+    color: crimson;
+    font-size: 90px;
+    font-weight: bolder;
+    font-style: normal; 
+}
+.t{
+    color: crimson;
+    font-size: 90px;
+    font-weight: bolder;
+    font-style: normal;
+}
+img{
+    width: 140px;
+    height: 140px;
+    border-radius: 22px;
+}
