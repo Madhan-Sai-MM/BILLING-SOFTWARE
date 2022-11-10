@@ -1,2 +1,2 @@
-# TIP-CALCULATOR
-This Calculator is Designed with Html, Css, Js
+# Billing-Software
+This Calculator is Designed with Html, Boot-Strap, Css, Js
