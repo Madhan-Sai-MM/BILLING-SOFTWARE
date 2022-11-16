@@ -1,5 +1,5 @@
 //RUN THE SERVER AND CHECK THE OUTPUT IN BROWSER
-//http://localhost:9005/WALL-CLOCK
+//http://localhost:9005/BILL
 const express = require("express");
 const path = require("path");
 
