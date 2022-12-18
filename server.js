@@ -24,7 +24,7 @@ app.get("/BILL", function(req,res){
 
 
 //SERVER CODE
-const PORT=8000
-app.listen(PORT, function(){
+//const PORT=8000
+app.listen(8000, function(){
     console.log("server is started with the port number 8000")
 })
