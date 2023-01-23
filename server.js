@@ -10,7 +10,7 @@ const app = express();
 //MIDDLEWARE :- conver any data intp JSON format
 app.use(express.static("public"))
 
-//EXPRESS MIDDLEWARE
+//THIS IS EXPRESS MIDDLEWARE
 //THIS converts any data into STRING
 app.use(express.json())
 
